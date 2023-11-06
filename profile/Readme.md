@@ -6,4 +6,3 @@
 ![Zulip](https://img.shields.io/static/v1?style=plastic&message=julialang%20%23manifolds&color=222222&logo=Zulip&logoColor=50ADFF&label=)
 
 We are a GitHub Organisation working on Julia packages related to Manifolds.
-You can for example find us on
