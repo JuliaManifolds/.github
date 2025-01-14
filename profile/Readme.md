@@ -1,4 +1,9 @@
-# JuliaManifolds
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuliaManifolds/.github/refs/heads/main/assets/logo_text_readme_dark.png">
+      <img alt="JuliaManifolds logo with text on the side" src="https://raw.githubusercontent.com/JuliaManifolds/.github/refs/heads/main/assets/logo_text_readme.png">
+    </picture>
+</div>
 
 [![docs](https://img.shields.io/badge/docs-juliamanifolds.github.io-blue)](https://juliamanifolds.github.io)
 [![BlueSky](https://img.shields.io/badge/-juliamanifolds.bsky.social-%23007df5?logo=BlueSky&logoColor=white)](https://bsky.app/profile/juliamanifolds.bsky.social)
